@@ -1,0 +1,53 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\sectionentry {1}{Neural melody composition from lyrics}{2}{Neural melody composition from lyrics}{0}}
+\headcommand {\beamer@subsectionpages {2}{1}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{2}{Mod\`ele}}
+\headcommand {\slideentry {1}{1}{1}{2/2}{Mod\`ele}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\slideentry {1}{1}{2}{3/3}{Mod\`ele}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionpages {2}{3}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{4}{Gated Recurrent Unit}}
+\headcommand {\slideentry {1}{2}{1}{4/4}{Gated Recurrent Unit}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{5}{Encodeur de paroles}}
+\headcommand {\slideentry {1}{3}{1}{5/5}{Encodeur de paroles}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{1}{4}{6}{Encodeur de contexte}}
+\headcommand {\slideentry {1}{4}{1}{6/6}{Encodeur de contexte}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {1}{4}{2}{7/7}{Encodeur de contexte}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@subsectionpages {6}{7}}
+\headcommand {\beamer@subsectionentry {0}{1}{5}{8}{D\'ecodeur}}
+\headcommand {\slideentry {1}{5}{1}{8/8}{D\'ecodeur}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@sectionpages {2}{8}}
+\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\sectionentry {2}{Conditional LSTM-GAN for Melody Generation from Lyrics}{9}{Conditional LSTM-GAN for Melody Generation from Lyrics}{0}}
+\headcommand {\beamer@subsectionpages {9}{8}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{9}{Mod\`ele}}
+\headcommand {\slideentry {2}{1}{1}{9/9}{Mod\`ele}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@subsectionpages {9}{9}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{10}{Encodeur de paroles}}
+\headcommand {\slideentry {2}{2}{1}{10/10}{Encodeur de paroles}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{11}{LSTM}}
+\headcommand {\slideentry {2}{3}{1}{11/11}{LSTM}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\beamer@subsectionpages {11}{11}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{12}{GAN}}
+\headcommand {\slideentry {2}{4}{1}{12/12}{GAN}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@partpages {1}{12}}
+\headcommand {\beamer@subsectionpages {12}{12}}
+\headcommand {\beamer@sectionpages {9}{12}}
+\headcommand {\beamer@documentpages {12}}
+\headcommand {\gdef \inserttotalframenumber {12}}

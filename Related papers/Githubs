@@ -1,0 +1,5 @@
+Lyric Dataset : https://github.com/walkerkq/musiclyrics
+
+Word / syllabe embedding : https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation/blob/master/Skip-gram_model_script_to_extract_syllables_and_word_level_embeddings.ipynb
+
+Doc embedding : https://github.com/inejc/paragraph-vectors
